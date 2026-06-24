@@ -1,2 +1,1 @@
-# offshore-breakwater-with-a-mountable-top-structure
-Supplementary materials
+This repository includes the supplementary video materials associated with the paper titled “Hydrodynamic Performance of an Offshore Breakwater with a Mountable Top Structure in the Presence of a Backwall,” which has been submitted to the journal Engineering Analysis with Boundary Elements.
